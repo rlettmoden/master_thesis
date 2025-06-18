@@ -37,8 +37,6 @@ MultiGFM processes multi-modal SITS through the following steps:
     - Late Fusion: Concatenate spatial-temporal features.
 6. **Segmentation Head**: Predict LULC classes.
 
-![Framework Overview](./docs/MultiGFM_Framework.png) *(Replace with actual image if available)*
-
 ## Experimental Highlights
 
 | Component             | Best Option            | Notes                                 |
@@ -72,10 +70,10 @@ If you use MultiGFM, please cite:
 
 ```
 @inproceedings{lettmoden2025multigfm,
-title={MultiGFM: multi-temporal framework for multi-modal geospatial foundation models},
-author={Lettmoden, Reiko and Achanccaray, Pedro and Bittner, Ksenia and Gerke, Markus},
-booktitle={Dreiländertagung der DGPF, der OVG und der SGPF, Band 33},
-year={2025}
+    title={MultiGFM: multi-temporal framework for multi-modal geospatial foundation models},
+    author={Lettmoden, Reiko and Achanccaray, Pedro and Bittner, Ksenia and Gerke, Markus},
+    booktitle={Dreiländertagung der DGPF, der OVG und der SGPF, Band 33},
+    year={2025}
 }
 ```
 
