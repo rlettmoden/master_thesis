@@ -3,6 +3,7 @@
 **MultiGFM** is a novel framework for integrating Satellite Image Time Series (SITS) into mono-temporal multi-modal Geospatial Foundation Models (GFMs) for land use and land cover (LULC) mapping. This approach enhances temporal learning in multi-modal remote sensing pipelines while keeping computational complexity manageable.
 
 [Link to Paper](https://www.dgpf.de/src/tagung/jt2025/proceedings/paper/10_3LT2025_Lettmoden_et_al.pdf)
+[Link to Thesis](https://github.com/rlettmoden/university/blob/main/MA_Reiko_Lettmoden.pdf)
 
 ## Key Features
 
