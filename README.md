@@ -33,7 +33,7 @@ MultiGFM processes multi-modal SITS through the following steps:
    - Long sequences: L-TAE
    - Short sequences: Temporal max-pooling
 5. **Fusion**: 
-    - Early Fusion: Most efficient, but more 
+    - Early Fusion: Most efficient, but may prohibit temporal feature extraction
     - Late Fusion: Concatenate spatial-temporal features.
 6. **Segmentation Head**: Predict LULC classes.
 
